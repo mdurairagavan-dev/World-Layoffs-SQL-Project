@@ -20,6 +20,3 @@
 - Which country and industry was hit hardest?
 - Layoff trends by year
 - Rolling total of layoffs per month
-
-## Credits
-Inspired by Alex The Analyst YouTube channel
